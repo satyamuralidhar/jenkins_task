@@ -1,0 +1,30 @@
+---
+docker:
+  common: {
+      registry: muralidhar123 ,
+  }    
+  dockbler: {
+      name: muralidhar123/task1 ,
+      image_tag: latest
+  }
+  ContainerName_1: {
+    name: muralidhar123/mytask1 ,
+    image_tag: latest
+  }
+  repo_repofiles: {
+      name: muralidhar123/task2 ,
+      image_tag: latest
+  }
+  ContainerName_2: {
+    name: muralidhar123/mytask2 ,
+    image_tag: latest
+  }
+  thirdrepo: {
+      name: muralidhar123/task3 ,
+      image_tag: latest
+  }
+  ContainerName_3: {
+    name: muralidhar123/mytask3 ,
+    image_tag: latest
+  }
+
