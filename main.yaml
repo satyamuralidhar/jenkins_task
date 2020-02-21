@@ -8,7 +8,7 @@ docker:
       image_tag: latest
   }
   ContainerName_1: {
-    name: muralidhar123/mytask1 ,
+    name: mytask1 ,
     image_tag: latest
   }
   repo_repofiles: {
@@ -16,7 +16,7 @@ docker:
       image_tag: latest
   }
   ContainerName_2: {
-    name: muralidhar123/mytask2 ,
+    name: mytask2 ,
     image_tag: latest
   }
   thirdrepo: {
@@ -24,7 +24,7 @@ docker:
       image_tag: latest
   }
   ContainerName_3: {
-    name: muralidhar123/mytask3 ,
+    name: mytask3 ,
     image_tag: latest
   }
 
